@@ -32,6 +32,10 @@
 
 **관리자** - 쇼핑, 주문, 회원, Q&A답변 가능
 
+![image](https://github.com/JungMin25/Servlet-project/assets/155709583/019ce4ba-a4fe-4059-a448-d7d32ca462ac)
+
+
+
 
 
 
